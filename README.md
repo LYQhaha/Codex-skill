@@ -64,7 +64,3 @@ $wink-short-video-edit
 ```
 
 Skill 指令文件位于 [`wink-short-video-edit/SKILL.md`](wink-short-video-edit/SKILL.md)。实际可用性取决于当前 Wink 版本、窗口状态、素材和账户权限。
-
-## GitHub 分享前
-
-本仓库只适合分享流程说明和 Skill 文件。请勿提交原始视频、导出的私人素材、账号凭据或运行缓存；本地 `.runtime/` 已由 `.gitignore` 排除。公开前应再检查截图、路径和素材是否包含个人信息。
